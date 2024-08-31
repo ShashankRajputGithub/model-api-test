@@ -10,7 +10,7 @@ b. Running instance of target application.
 
 ## 2. Steps to execute the tests.
 a. Docker installed on your machine.
-```bash:
+```bash::
 git clone <git repo link>
 ```
 b. Build the docker image.
