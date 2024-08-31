@@ -10,7 +10,7 @@ b. Running instance of target application.
 
 ## 2. Steps to execute the tests.
 a. Docker installed on your machine.
-```bash
+```bash:
 git clone <git repo link>
 ```
 b. Build the docker image.
@@ -43,4 +43,4 @@ b. CI/CD Configuration
 ## Disadvantages
 1. BDD scenarios can lead to duplication of steps or redundant tests, increasing the maintenance burden.
 2. Cypress does not natively support mobile browser testing, which can be a significant limitation for teams needing to test responsive or mobile-first applications.
-3. While Docker’s isolation is an advantage, it can also make debugging more challenging. Accessing logs, files, or state inside a container can require additional steps or tools
+3. While Docker’s isolation is an advantage, it can also make debugging more challenging. Accessing logs, files, or state inside a container can require additional steps or tools# model-api-test
