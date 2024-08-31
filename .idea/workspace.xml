@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d380fd9-dd86-486a-ac96-e21686e98a56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.cypress-cucumber-preprocessorrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenInnovationAI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumber-json-formatter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumber-messages.ndjson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/model_api_tests/add_model.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/model_api_tests/add_model_version.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/model_api_tests/delete_model.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/model_api_tests/delete_model_version.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/model_api_tests/get_model_version.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/model_api_tests/get_models.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/model_api_tests/perform_inference.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/fixtures/add_model_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/fixtures/get_model_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/fixtures/perform_inference.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/reports/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/screenshots/add_model.feature/Add Model -- Add Model (failed).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/screenshots/add_model_version.feature/Add Model Version -- Add Model Version (failed).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/screenshots/delete_model.feature/Delete Model -- Delete Model (failed).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/screenshots/delete_model_version.feature/Delete Model Version -- Add Model Version (failed).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/screenshots/get_model_version.feature/Get Model Version -- Add Model Version (failed).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/screenshots/get_models.feature/Get Model -- Get Model Tests (failed).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/screenshots/perform_inference.feature/Perform Inference Tests -- Add Model Version (failed).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/commands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/e2e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/step_definitions/add_model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/step_definitions/add_model_version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/step_definitions/delete_model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/step_definitions/delete_model_version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/step_definitions/get_model_version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/step_definitions/get_models.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/step_definitions/perform_inference.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/videos/add_model.feature.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/videos/add_model_version.feature.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/videos/delete_model.feature.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/videos/delete_model_version.feature.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/videos/get_model_version.feature.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/videos/get_models.feature.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/videos/perform_inference.feature.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry-point.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repoter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run-test.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2lNSN30DirAIKVROJ1qjzEJ4Nfk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/s.rajput/IdeaProjects/OpenInnovationAI&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cypress" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d380fd9-dd86-486a-ac96-e21686e98a56" name="Changes" comment="" />
+      <created>1725018999967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725018999967</updated>
+      <workItem from="1725019001140" duration="41684000" />
+      <workItem from="1725102661348" duration="5000" />
+      <workItem from="1725102752901" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+{
+  "valid_data": {
+    "name": "Model-X",
+    "owner": "John Doe"
+  },
+  "not provided": {
+    "owner": "John Doe"
+  },
+  "owner_missing_model": {
+    "name": "Model-X"
+  },
+  "null": {
+    "name": null,
+    "owner": "John Doe"
+  }
+}

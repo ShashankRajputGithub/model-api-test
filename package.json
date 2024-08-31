@@ -1,0 +1,30 @@
+{
+  "scripts": {
+    "cypress-open": "cypress open",
+    "test": "cypress run --headless --spec 'cypress/e2e/model_api_tests/*.feature' && npm run report",
+    "report": "node reporter.js"
+  },
+  "dependencies": {
+    "cypress": "^12.12.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": false,
+    "json": {
+      "enabled": false,
+      "formatter": "jsonFormatter/cucumber-json-formatter",
+      "output": "json-logs/cucumber-report.json"
+    },
+    "html": {
+      "enabled": true,
+      "output": "cypress/generate-reports/cucumber-report.html"
+    }
+  },
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^17.2.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.2",
+    "cucumber-html-reporter": "^7.1.1",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "multiple-cucumber-html-reporter": "^3.7.0",
+    "prettier": "^1.18.2"
+  }
+}
